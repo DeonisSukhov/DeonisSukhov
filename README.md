@@ -31,7 +31,7 @@
 </p>
 
 
-<b>My GitHub Stats</b>
+
 
 <a href="https://github.com/DeonisSukhov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeonisSukhov&langs_count=10&title_color=facc15&text_color=22c55e&icon_color=ec4899&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
