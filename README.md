@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis и я Frontend-разработчик.
+Доброго дня, мое имя Денис и я Frontend-разработчик. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================================
 
 Создаю веб-приложения при помощи React библиотеки и занимаюсь версткой сайтов. Имею знания JavaScript, TypeScrip и фреймворка Express для NodeJS, что позволяет мне вести разработку как на клиентской, так и на серверной стороне. В свободное время занимаюсь тяжелой атлетикой и jiu jitsu, что помогает мне развивать дисциплину и целеустремленность - качества, которые я применяю в своей профессиональной деятельности. Ищу возможности работать над интересными проектами в команде и вместе развиваться как специалистам. Если вы ищете креативного и целеустремленного Frontend-разработчика, я с нетерпением жду возможности обсудить с вами сотрудничество.
@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DeonisSukhov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D1%81%D1%83%D1%85%D0%BE%D0%B2-84a759363/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
